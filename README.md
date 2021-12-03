@@ -8,9 +8,9 @@
 ### 安裝
 1.開啟終端機(Terminal)cd 到存放專案本機位置並執行:
 
-、、、
+```
 https://github.com/Wilson149/restauant-list.git
-、、、
+```
 
 2.初始
 
@@ -24,9 +24,9 @@ https://github.com/Wilson149/restauant-list.git
 
 3.開啟程式
 
-、、、
+```
 在 Terminal 輸入 nodemon app.js
-、、、
+```
 
 現在，你可開啟任一瀏覽器瀏覽器輸入 [http://localhost:3000](http://localhost:3000)開始使用餐廳清單
 
